@@ -47,6 +47,28 @@ But since the value is close to 0, age doesn't strongly predict salary.
 ##Visualization
 Using pie chart and bar charts , scatterplots for representing the data
 
+
+![img.png](img.png)
+![img_1.png](img_1.png)
+![img_2.png](img_2.png)
+![img_3.png](img_3.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ##CONCLUSION
 
 The data is showing the team spends significantly by position not as age , we can suggest consider performance as a metrics.
